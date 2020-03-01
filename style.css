@@ -1,0 +1,19 @@
+body
+{
+    background-color: #191919;
+    color: #FFFFFF;
+    font-family: Arial, sans-serif;
+}
+
+#main
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+table, th, td
+{
+    border: 1px solid #FFFFFF;
+    text-align: left;
+}
